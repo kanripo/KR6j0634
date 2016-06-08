@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:48.283383
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:41
 #+TITLE: 消除一切閃電障難隨求如意陀羅尼經
 #+PROPERTY: CBETA_ID T21n1402
 #+PROPERTY: ID KR6j0634

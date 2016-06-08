@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:36:48.283383
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:41
 #+TITLE: 消除一切閃電障難隨求如意陀羅尼經
 #+PROPERTY: CBETA_ID T21n1402
 #+PROPERTY: ID KR6j0634
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1402
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0634_T_000-0918b>¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0634_T_001-0918b> ¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1402¶
-
- 消除一切閃電障難隨求如意陀¶
+No. 1402¶
+消除一切閃電障難隨求如意陀¶
 羅尼經¶
 ¶
 西天北印度烏填曩國帝釋宮寺¶
@@ -111,7 +110,7 @@ No.1402¶
 多(二合)尾膩(上)娑嚩(二合引)賀(引八)¶
 
 世尊我等四王如上所說真言章句名無怖¶
-畏。於諸怖畏而作擁護。一切壽命令無中夭。
+畏。於諸怖異而作擁護。一切壽命令無中夭。
 <pb:KR6j0634_T_001-0919b>¶
 
 爾時娑誐嚕龍王麼曩悉吠(二合)龍王電光龍¶
